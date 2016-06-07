@@ -2,10 +2,10 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class BindersWorkspace < Formula
+class BinderWorkspace < Formula
   desc ""
   homepage ""
-  url "https://github.com/ryanhanks-wf/binders_workspace/archive/0.0.1.tar.gz"
+  url "https://github.com/ryanhanks-wf/binder_workspace/archive/0.0.1.tar.gz"
   version "0.0.1"
   sha256 "64811d9889a1647800eb60d9c1fa9d34c5e2e6b64bb292021b26d8c64a70804a"
 
